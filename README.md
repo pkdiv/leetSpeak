@@ -1,6 +1,6 @@
 # leetSpeak
 
-Leetspeak is a python script used to generate wordlist of leetspeak of a word. 
+Leetspeak is a python program used to generate wordlist of leetspeak of a word. 
 
 ## What is Leetspeak or Leet?
 
